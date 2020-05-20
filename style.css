@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://cinnabar.co.za/wp-content/uploads/2016/06/paper-bg.jpg");
+}
+
+.w3-bar-w3-white {
+    font-family: 'Bebas Neue', cursive;
+    background: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.column {
+    left: 50px;
+}
+
+.card {
+    position: relative;
+    width: 400px;
+    height: 345px;
+    margin: 10px auto;
+    background: #26a69a;
+    top: 30px;
+    opacity: 85%;
+    left: 530px;
+    text-align: center;
+    opacity: 85%;
+}
+
+.card-header {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+
+.list-group-item {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 100px;
+  }
+
+.header h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+
+}
+
+.container {
+    position: relative;
+    width: 1200px;
+    height: 300px;
+    margin: 240px auto;
+    background: black;
+    top: 200px;
+    opacity: 85%;
+}
+
+.container .box {
+    position: relative;
+    width: 340px;
+    height: 270px;
+    background: white;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+body > div.container > div:nth-child(1) {
+    list-style-type: none;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+body > div.container > div:nth-child(2) {
+    list-style-type: none;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+body > div.container > div:nth-child(3) {
+    list-style-type: none;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    text-align: center;
+}
